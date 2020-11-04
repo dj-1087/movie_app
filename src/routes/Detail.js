@@ -15,6 +15,6 @@ class Detail extends React.Component {
       return null;
     }
   }
-}
+} 호스트ㅏㄱ 가면 꺼져
 
 export default Detail;
